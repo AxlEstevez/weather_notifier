@@ -1,4 +1,4 @@
-# A simple desktop weather notifier in python.[EOF]
+# A simple desktop weather notifier in python
 
 install The modules
 
