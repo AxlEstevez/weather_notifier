@@ -7,7 +7,7 @@ from pynotifier import Notification
 url = "http://api.openweathermap.org/data/2.5/weather?q="
 cityname = "Mexico City, MX"
 
-api_key = 'e311eeb908b77bfa44cfbe57ca39efe7'
+api_key = ''
 
 data = requests.get(url+cityname+'&appid='+api_key).json()
 city = data['name']
