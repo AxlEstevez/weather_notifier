@@ -2,8 +2,8 @@
 
 install The modules
 
-*py-notifier
-*win10toast
+- py-notifier
+- win10toast
 
 Get the Free Weather API_KEY in [weather appi](http://home.openweathermap.org/api_keys)
 
